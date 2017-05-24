@@ -12,8 +12,8 @@ It was clear that I needed a different machine, but being an Indian I wanted it 
 [Floydhub](floydhub.com "Floydhub") is the Heroku of DL, it uses Amazon AWS as back end and provides 100 hours of free GPU usage, that too an NVIDIA Tesla K80! User just needs to install floydhub-cli client and register using email address. There is also support for Jupyter notebooks, That is DOPE!  
 ## Usage
 After installation of floyd-cli client and authentication, goto project folder and run the following commands:  
-	floyd init PROJECT_NAME
+	floyd init PROJECT_NAME  
 	floyd run --gpu "python FILE.py"  (replace with --cpu for CPU instance)  
 
-To launch a Jupyter server
+To launch a Jupyter server  
 	floyd run --mode jupyter --gpu
