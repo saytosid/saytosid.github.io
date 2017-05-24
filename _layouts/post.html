@@ -1,9 +1,12 @@
 ---
 layout: default
+published: true
 ---
 
 <article class="post">
   <h1>{{ page.title }}</h1>
+  <h3>{% if page.read_time %} Read Time: {{ page.read_time }}
+    {% endif %}</h3>
 
   <div class="entry">
     {{ content }}
