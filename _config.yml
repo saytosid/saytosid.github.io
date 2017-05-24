@@ -6,7 +6,7 @@
 name: Siddhant Kumar
 
 # Short bio or description (displayed in the header)
-description: Undergrad, IIT Mandi | ML Enthusiast | Coder | Photographer
+description: B.Tech Undergrad, IIT Mandi | ML Enthusiast | Coder | Photographer
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/15984573?v=3&s=460
 
@@ -18,11 +18,11 @@ avatar: https://avatars0.githubusercontent.com/u/15984573?v=3&s=460
 footer-links:
   dribbble:
   email: saytosid@gmail.com
-  facebook: /siddhant70800
+  facebook: siddhant70800
   flickr:
-  github: /saytosid
-  instagram: /saytosid
-  linkedin: /saytosid
+  github: saytosid
+  instagram: saytosid
+  linkedin: saytosid
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -32,14 +32,14 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: saytosid-github-io
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-99817065-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://saytosid.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
