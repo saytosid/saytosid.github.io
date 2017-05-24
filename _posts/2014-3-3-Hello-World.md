@@ -1,11 +1,7 @@
 ---
 layout: post
-title: Hello World!
+title: My experience with Jekyll
+published: true
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-##Hello world!  
-I am just trying out this cool thing
+Since long I had been thinking about starting a blog however the initial effort kept me shying away, untill recently when I was going through [Andrej Karpathy's blog post about Jekyll](http://karpathy.github.io/2014/07/01/switching-to-jekyll/ "Andrej Karpathy Blog") I was amazed by the concept of markdown posts and static website for blog. It was an amazing experience setting up this site and writing my first blog post about setting up this site :p all within 2 hrs.  
+**Jekyll is an angel <3**
