@@ -5,6 +5,8 @@ permalink: /about/
 published: true
 ---
 I am a 3rd year B.Tech CSE student at IIT Mandi. My interests lie in Artificial Intelligence and Machine Learning. I like the idea of having machines that can do stuff that I thought only humans were capable of, simple things like image classifiers and game playing bots got me excited about ML in my 5th semester. 
+<img src="{{site.baseurl}}/images/ML_meme.jpg" width="48">
+
 ![]({{site.baseurl}}/images/ML_meme.jpg | width="320px")  
 ### In other life
 I am also a hobbist Photographer who likes to trek in the beautiful Himalayas where my college is situated.  
