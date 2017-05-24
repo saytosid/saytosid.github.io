@@ -4,6 +4,10 @@ title: 'Train Deep Learning models in the cloud, (No credit card required)'
 published: true
 date: 'May 24, 2017'
 read_time: 1m
+tags:
+  - Deep Learning
+  - free GPU
+  - jupyter
 ---
 I was working on my Deep Learning assignment that needed me to train Resnet50 over a dataset, I was provided with a GPU machine for it. However the login credentials given to me were given to many other students also and this lead to chaos on that machine. No code could run reliably, there is no guarantee that the process will get to live. Most processes were killed prematurely by other users.  
 It was clear that I needed a different machine, but being an Indian I wanted it for free. ENTER [Floydhub](floydhub.com "Floydhub")!  
