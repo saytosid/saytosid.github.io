@@ -7,7 +7,8 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
+      <h5>% if page.read_time %} Read Time: {{ page.read_time }}
+    {% endif %}</h5>
       <div class="entry">
         {{ post.excerpt }}
       </div>

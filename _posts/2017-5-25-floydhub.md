@@ -4,6 +4,7 @@ title: 'Train Deep Learning models in the cloud, (No credit card required)'
 published: true
 date: 'May 24, 2017'
 read_time: 1m
+excerpt: Completely free method to run keras, tensorflow in the cloud on high performance GPUs with support of running jupyter notebooks also. All you need is an email id and you get 100hrs of free use.
 tags:
   - Deep Learning
   - free GPU
