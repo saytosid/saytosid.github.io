@@ -48,7 +48,10 @@ Note: Spearman correlation is good for finding out weather two variables are ind
 
 ### Kendall Correlation  
 Kendall correlation does not assume anything about the distribution of the data like Spearman. Spearman has a flaw it is good to find weather there is monotonic dependence or not, if there is monotonic dependence the value is difficult to interpret. Kendall on the other hand can quantify the strength of dependence between variables.  
-Kendall is the best correlation measure as it is non parametric (Doesnt assume distribution of the data), and can be used to establish weather two variables are dependent or not and how much (if they are dependent).  
+- Advantages
+    - Non-parametric (Doesnt assume distribution of the data)
+    - Can be used to establish weather two variables are dependent or not
+        -  Can quantify, how much dependency is there.  
 
 #### References  
 [Minitab Express Support's page on correlations](http://support.minitab.com/en-us/minitab-express/1/help-and-how-to/modeling-statistics/regression/supporting-topics/basics/a-comparison-of-the-pearson-and-spearman-correlation-methods/ "MiniTab Express Support" )  
