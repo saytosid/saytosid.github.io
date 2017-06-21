@@ -46,8 +46,8 @@ Fig 2: Spearman coeff = 0
 
 
 #### References  
-[](http://support.minitab.com/en-us/minitab-express/1/help-and-how-to/modeling-statistics/regression/supporting-topics/basics/a-comparison-of-the-pearson-and-spearman-correlation-methods/ "MiniTab Express Support" )  
-[](http://www.statisticssolutions.com/correlation-pearson-kendall-spearman/ "statisticssolutions.com")  
-[](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient "Wikipedia - Pearson Correlation")  
-[](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient "Wikipedia - Spearman Correlation")  
+[Minitab Express Support's page on correlations](http://support.minitab.com/en-us/minitab-express/1/help-and-how-to/modeling-statistics/regression/supporting-topics/basics/a-comparison-of-the-pearson-and-spearman-correlation-methods/ "MiniTab Express Support" )  
+[StatisticsSolutions.com's page on Correlation](http://www.statisticssolutions.com/correlation-pearson-kendall-spearman/ "statisticssolutions.com")  
+[Wikipedia - Pearson Correlation](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient "Wikipedia - Pearson Correlation")  
+[Wikipedia - Spearman Correlation](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient "Wikipedia - Spearman Correlation")  
 
