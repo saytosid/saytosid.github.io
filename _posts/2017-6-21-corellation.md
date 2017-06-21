@@ -13,7 +13,7 @@ tags:
   - Spearman
   - Pearson
 ---
-###TLDR  
+### TLDR  
 Use Kendall for most cases its the best option.  
 
 ## Corellation Measure  
