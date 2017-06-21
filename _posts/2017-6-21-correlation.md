@@ -3,7 +3,7 @@ layout: post
 title: 'Practical guide to Correlation measures'
 title: Practical guide to Correlation measures
 published: true
-read_time: 2m
+read_time: 4m
 excerpt: General talk about different correlation measures and when to use what. Compared Spearman, Pearson and Kendall correlation measures.
 tags:
   - Deep Learning
