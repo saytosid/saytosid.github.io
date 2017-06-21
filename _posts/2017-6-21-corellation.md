@@ -1,12 +1,17 @@
 ---
 layout: post
 title: 'Practicle guide to Correlation measures'
+title: Practicle guide to Correlation measures
 published: true
 read_time: 2m
 excerpt: Completely free method to run keras, tensorflow in the cloud on high performance GPUs with support of running jupyter notebooks also. All you need is an email id and you get 100hrs of free use.
+excerpt: General talk about different correlation measures and when to use what.
 tags:
   - Deep Learning
   - Correlation
+  - Kendall
+  - Spearman
+  - Pearson
 ---
 ## Different Corellation Measures  
 Corellation measures are used to measure the degree of relationship between two variables. There are different kinds of corellation measures that can be used depending on the type of data and use case. Some common correlation measures are Pearson, Spearman and Kendall corellations. In this post I will try to explain beiefly what these do and when to use them. Formulas for these can be found easily elsewhere, Implementations are available in Pandas library.    
@@ -28,7 +33,7 @@ What does that mean? Well to put it in simple practical points.
 
 ### Spearman Corellation  
 It is a more robust correlation measure as it does not assume anything about the distribution of the data. However it only looks for monotonic relationships, and is generally suited for ordinal variables. eg: Finding the relationship betweeen the order of students who finish a race with the amount of hours they practice.  
-Note that this captures only the monotonic relationships, as can be seen in Fig 1 however it cannot capture non monotonically related variables as in Fig 2.
+Note that this captures only the monotonic relationships, as can be seen in Fig 1 however it cannot capture non monotonically related variables as in Fig 2.  
 ![Monotonic relationship captured by Spearman coeff.]({{site.baseurl}}/images/correlation/monotonic_spearman.png)  
 Fig 1: Spearman coeff = 1  
 ![Monotonic relationship captured by Spearman coeff.]({{site.baseurl}}/images/correlation/zero_spearman.png)  
