@@ -41,3 +41,13 @@ Fig 2: Spearman coeff = 0
 - Use when
     - The relationship is monotonic (either always increasing of always decreasing)
     - Order of values of a variable may be of interest
+
+
+
+
+#### References  
+[](http://support.minitab.com/en-us/minitab-express/1/help-and-how-to/modeling-statistics/regression/supporting-topics/basics/a-comparison-of-the-pearson-and-spearman-correlation-methods/ "MiniTab Express Support" )  
+[](http://www.statisticssolutions.com/correlation-pearson-kendall-spearman/ "statisticssolutions.com")  
+[](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient "Wikipedia - Pearson Correlation")  
+[](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient "Wikipedia - Spearman Correlation")  
+
