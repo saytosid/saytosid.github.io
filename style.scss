@@ -22,7 +22,11 @@ body {
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
-
+.center-image
+{
+  margin: 0 auto;
+  display: block;
+}
 .container {
   margin: 0 auto;
   max-width: 740px;
