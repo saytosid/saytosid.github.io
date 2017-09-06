@@ -5,11 +5,6 @@ published: true
 read_time: 5m
 excerpt: Create portable Linux on a USB bootable on Mac and PC.
 tags:
-	- portable linux
-	- portable ubuntu
-	- linux on USB
-	- linux on mac
-	- refind
 ---
 
 #### The Need  
