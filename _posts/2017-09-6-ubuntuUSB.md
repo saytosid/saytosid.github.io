@@ -5,13 +5,13 @@ published: true
 read_time: 5m
 excerpt: Create portable Linux on a USB bootable on Mac and PC. Full working method, clearly described. 
 tags:
-	- pendrivelinux
-	- pendrive linux
-	- ubuntu usb
-	- mac linux
-	- mac dual boot
-	- ubuntu flash drive
-	- refind
+- pendrivelinux
+- pendrive linux
+- ubuntu usb
+- mac linux
+- mac dual boot
+- ubuntu flash drive
+- refind
 ---
 
 #### The Need  
