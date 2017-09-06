@@ -1,10 +1,17 @@
 ---
 layout: post
-title: Install Ubuntu on USB flash drive on mac bootable on any machine (Full install not live usb)
+title: Carry your Linux around in a USB, boot it on Mac or PC. (The missing tutorial)
 published: true
 read_time: 5m
-excerpt: Create portable Linux on a USB bootable on Mac and PC.
+excerpt: Create portable Linux on a USB bootable on Mac and PC. Full working method, clearly described. 
 tags:
+	- pendrivelinux
+	- pendrive linux
+	- ubuntu usb
+	- mac linux
+	- mac dual boot
+	- ubuntu flash drive
+	- refind
 ---
 
 #### The Need  
