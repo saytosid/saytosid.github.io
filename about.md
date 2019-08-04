@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 published: true
 ---
-I am a 3rd year B.Tech CSE student at IIT Mandi. My interests lie in Artificial Intelligence and Machine Learning. I like the idea of having machines that can do stuff that I thought only humans were capable of, simple things like image classifiers and game playing bots got me excited about ML in my 5th semester.   
-![]({{site.baseurl}}/images/ML_meme.jpg)  
+I am a Software Engineer at Bloomberg LP, London. I am quite fascinated with CS and have always been curious about the new developments in the area. I pursued ML research for 2 years at university, at Bloomberg I work with Bond pricing and Yield curves. Apart from work, I am studying Quantitative Finance at CQF.  
 ### In other life
-I am also a hobbist Photographer who likes to trek in the beautiful Himalayas where my college is situated.  
-![Morning in Triund]({{site.baseurl}}/images/triund.jpg)  
-Clicked by me at Triund, Dharamshala. More clicks at my [500px profile](http://500px.com/saytosid "Siddhant Kumar | 500px")  
-I like travelling to new places and exploring different kinds of lives people live. My dream vacation would be a long bike trip arround the boundry of the country :)  
-I played Hockey for a brief time in my college team as right out defender.
-
+I am a hobbist Photographer who likes to trek in the beautiful Himalayas where my university was. I am a Nikon fanboy and have used their cameras since the COOLPIX L3. Currently I use a D750 with 24-120 F4 lens. Now that I live in London I cant trek in the Himalayas anymore, but London is a beautiful city and I have been exploring a lot of street/urban photography here. If you like my photos please feel free to download them for free from my [Unsplash](https://unsplash.com/@saytosid "Siddhant Kumar | Unsplash") profile. Here are some of my clicks.
+![A red phone booth in the country]({{site.baseurl}}/images/about-page/snowdonia-phone.jpg)  
+A red phone booth in the country, Clicked at Snowdonia, North Wales. More clicks at my [Unsplash](https://unsplash.com/@saytosid "Siddhant Kumar | Unsplash")  
 
 ### Contact me
 
